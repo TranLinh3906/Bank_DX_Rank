@@ -1,0 +1,6 @@
+﻿bank,A,B,C,D,BDTI,status,methodology,warning_count,low_confidence_count,strongest_pillar,weakest_pillar
+BIDV,62.5,50.0,75.0,75.0,65.625,automated,BDTI ước tính từ phương pháp chấm điểm tự động,7,1,"C,D",B
+MB,75.0,50.0,100.0,62.5,71.875,automated,BDTI ước tính từ phương pháp chấm điểm tự động,9,1,C,B
+OCB,62.5,87.5,87.5,75.0,78.125,automated,BDTI ước tính từ phương pháp chấm điểm tự động,9,0,"B,C",A
+VCB,62.5,62.5,50.0,25.0,50.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động,10,5,"A,B",D
+VietinBank,37.5,62.5,62.5,75.0,59.375,automated,BDTI ước tính từ phương pháp chấm điểm tự động,5,1,D,A

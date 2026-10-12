@@ -1,0 +1,21 @@
+﻿bank,pillar,raw_score,count,pillar_score,status,methodology
+BIDV,A,5,4,62.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+BIDV,B,4,4,50.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+BIDV,C,6,4,75.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+BIDV,D,6,4,75.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+MB,A,6,4,75.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+MB,B,4,4,50.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+MB,C,8,4,100.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+MB,D,5,4,62.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+OCB,A,5,4,62.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+OCB,B,7,4,87.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+OCB,C,7,4,87.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+OCB,D,6,4,75.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+VCB,A,5,4,62.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+VCB,B,5,4,62.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+VCB,C,4,4,50.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+VCB,D,2,4,25.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+VietinBank,A,3,4,37.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+VietinBank,B,5,4,62.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+VietinBank,C,5,4,62.5,automated,BDTI ước tính từ phương pháp chấm điểm tự động
+VietinBank,D,6,4,75.0,automated,BDTI ước tính từ phương pháp chấm điểm tự động
